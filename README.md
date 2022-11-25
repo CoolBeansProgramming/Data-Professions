@@ -1,2 +1,2 @@
 # Data-Professions
-Data collected from an online survey from data professionals
+Data collected from an online survey from data professionals.
