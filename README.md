@@ -1,2 +1,2 @@
 # Data-Professions
-Data collected from an online survey from data professionals.
+Dashboard created in Power BI with data collected from an online survey of data professionals.
